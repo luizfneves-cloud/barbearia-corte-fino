@@ -99,6 +99,10 @@
    color: var(--ouro);
 }
 
+.hero-numeros span {
+   font-size: 0.8rem;
+}
+
 /* ---------- 3. CARDS DE SERVIÇOS ---------- */
 /* .cards-servicos, .card-servico, .card-rodape */
 
